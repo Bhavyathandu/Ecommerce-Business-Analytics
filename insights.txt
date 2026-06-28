@@ -1,0 +1,173 @@
+========================================
+E-COMMERCE BUSINESS INSIGHTS
+========================================
+
+1. REGION ANALYSIS
+
+• West region generated the highest sales (725,457.82).
+
+• South region generated the lowest sales (391,721.91).
+
+Recommendation:
+Increase marketing campaigns in the South region.
+Maintain inventory levels in the West region.
+
+------------------------------------------------
+
+2. CATEGORY ANALYSIS
+
+• Technology generated the highest sales.
+• Furniture generated moderate sales.
+• Office Supplies generated comparatively lower sales.
+
+Recommendation:
+Increase stock for Technology products.
+Review pricing and promotions for Office Supplies.
+
+------------------------------------------------
+
+3. STATE ANALYSIS
+
+(We will add this after running the State Analysis.)
+
+------------------------------------------------
+
+4. CUSTOMER ANALYSIS
+
+(We'll add later.)
+
+------------------------------------------------
+
+5. PRODUCT ANALYSIS
+
+(We'll add later.)
+
+------------------------------------------------
+
+6. MONTHLY SALES ANALYSIS
+
+(We'll add later.)
+
+------------------------------------------------
+
+7. FINAL BUSINESS RECOMMENDATIONS
+
+(We'll write these at the end of the project.)
+
+========================================
+CATEGORY ANALYSIS
+========================================
+
+Highest Sales Category : Technology
+
+Second Highest : Furniture
+
+Lowest Sales : Office Supplies
+
+Business Recommendation:
+• Increase inventory for Technology products.
+• Launch promotional campaigns for Office Supplies.
+• Monitor Furniture demand and maintain stock levels.
+========================================
+CUSTOMER SEGMENT ANALYSIS
+========================================
+
+Highest Sales Segment :
+(Write the segment name from your output)
+
+Business Recommendation:
+• Focus marketing campaigns on the highest-performing customer segment.
+• Design special offers for lower-performing segments to increase sales.
+========================================
+TOP 10 PRODUCTS ANALYSIS
+========================================
+
+• Identified the top 10 products based on total sales.
+
+Business Recommendation:
+Maintain sufficient inventory for high-selling products.
+Use promotional campaigns for low-performing products.
+
+========================================
+TOP 10 PRODUCTS ANALYSIS
+========================================
+
+Highest Selling Product:
+Canon imageCLASS 2200 Advanced Copier
+
+Business Insights:
+• This product generated the highest revenue.
+• Ensure sufficient inventory.
+• Promote related accessories.
+• Monitor competitor pricing for premium products.
+========================================
+PROFIT ANALYSIS
+========================================
+
+Highest Profit Category:
+(Write the category from your output)
+
+Business Recommendation:
+• Focus marketing on high-profit categories.
+• Review pricing and discounts for low-profit categories.
+========================================
+DISCOUNT IMPACT ANALYSIS
+========================================
+
+Findings:
+• 10% discount produced the highest average profit.
+• Discounts above 30% resulted in negative profits.
+• 50% discount caused the highest average loss.
+
+Business Recommendation:
+• Keep discounts between 0% and 10% whenever possible.
+• Avoid offering discounts greater than 30% except for clearance or special campaigns.
+• Monitor the profitability of discounted products regularly.
+========================================
+TOP CUSTOMERS ANALYSIS
+========================================
+
+Highest Value Customer:
+Sean Miller
+
+Top 3 Customers:
+1. Sean Miller
+2. Tamara Chand
+3. Raymond Buch
+
+Business Recommendation:
+• Introduce a VIP loyalty program.
+• Offer exclusive deals to high-value customers.
+• Focus on retaining top customers to maximize long-term revenue.
+========================================
+TOP CITIES ANALYSIS
+========================================
+
+Highest Sales City:
+New York City
+
+Top 3 Cities:
+1. New York City
+2. Los Angeles
+3. Seattle
+
+Business Recommendation:
+• Increase inventory in New York City.
+• Expand marketing campaigns in Los Angeles and Seattle.
+• Study customer behavior in high-performing cities and apply successful strategies to other regions.
+========================================
+SHIPPING MODE ANALYSIS
+========================================
+
+Most Preferred Shipping Mode:
+Standard Class
+
+Business Insights:
+• Standard Class generated the highest sales.
+• Same Day shipping was the least used.
+• Most customers prefer economical shipping options.
+
+Business Recommendation:
+• Continue improving Standard Class delivery.
+• Offer promotional discounts on premium shipping methods.
+• Improve Same Day delivery awareness and availability.
